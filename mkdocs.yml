@@ -1,0 +1,37 @@
+site_name: hyper-django
+site_url: https://hyper-django.netlify.app
+site_dir: "site"
+site_author: joshIsDev
+site_description: >-
+  My personal documentation on all things django
+
+repo_name: joshualent/hyper-django
+repo_url: https://github.com/joshualent/joshisdev-docs
+
+copyright: Copyright &copy; 2025 joshIsDev
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light green
+      accent: amber
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
