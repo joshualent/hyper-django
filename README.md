@@ -1,0 +1,2 @@
+# hyper-django
+Django notes
