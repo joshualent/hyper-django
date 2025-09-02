@@ -1,12 +1,12 @@
 site_name: hyper-django
-site_url: https://hyper-django.netlify.app
+site_url: https://django-wiki.netlify.app
 site_dir: "site"
 site_author: joshIsDev
 site_description: >-
   My personal documentation on all things django
 
 repo_name: joshualent/hyper-django
-repo_url: https://github.com/joshualent/joshisdev-docs
+repo_url: https://github.com/joshualent/hyper-django
 
 copyright: Copyright &copy; 2025 joshIsDev
 
